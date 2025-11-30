@@ -1,0 +1,12 @@
+google-generativeai>=0.8.3
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+requests
+edge-tts>=6.1.9
+gTTS
+moviepy==1.0.3
+imageio-ffmpeg
+imageio>=2.5.0
+numpy
+pillow
